@@ -1,8 +1,5 @@
 # Maze Q-Learning (Proyecto modular)
 
-Refactor de tu script en un proyecto **modular**, con un `main` para ejecutarlo y archivos separados por responsabilidad.
-Todo está en español y mantiene exactamente la misma lógica que tu código original.
-
 ## Estructura
 
 ```
