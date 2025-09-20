@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Aprendizaje por Refuerzo: Q-Learning en Laberintos (Python)"
+message: "Si utilizas este software, por favor cita este repositorio."
+type: software
+authors:
+  - family-names: Guzmán Pérez
+    given-names: René
+repository-code: "https://github.com/TU_USUARIO/qlearning-laberintos-es"
+version: "0.1.0"
+date-released: "2025-09-20"
+license: "MIT"
